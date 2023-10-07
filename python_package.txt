@@ -1,0 +1,12 @@
+download the packages from pypi.org
+
+certifi
+charset_normalizer
+idna
+numpy
+pandas
+pytz
+redis
+requests
+spotipy
+urllib3
