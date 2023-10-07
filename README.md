@@ -20,7 +20,7 @@ Process:
 
 It was a great experience using API to collect data and then transform this raw data into legible data using AWS. This was a fun project as I was able to work with real time data which keeps on updating.
 
-Spotify Developer : https://developer.spotify.com
+Spotify Developer : https://developer.spotify.com 
 Python Custom Package : https://www.youtube.com/watch?v=lrEAu75zhNI
 
 ## Architecture Diagram
