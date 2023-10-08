@@ -1,4 +1,5 @@
-download the packages from pypi.org
+download the following packages from pypi.org
+https://pypi.org/
 
 certifi
 charset_normalizer
